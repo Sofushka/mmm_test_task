@@ -1,0 +1,12 @@
+{
+  "daily_spend_per_channel": {
+    "bing_spend": 331.44166666666666,
+    "google_spend": 2264.953333333333,
+    "meta_spend": 2509.4010000000003,
+    "pinterest_spend": 634.5139999999998
+  },
+  "daily_total_spend": 5740.310000000001,
+  "daily_new_customers": 418.6,
+  "period": "2026-09-01 to 2026-09-30",
+  "projection_days": 30
+}
